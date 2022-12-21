@@ -201,9 +201,9 @@ $
 At this time, there are no known bugs.
 
 ## Authors
-Joshua Claudio Enrico | [GitHub](https://github.com/yoyogold-a11)
+Yusuf Ayomide Victoria | [GitHub](https://github.com/ayovicky)
 
-Luis Escobedo | [GitHub](https://github.com/luisdev20)
+Ekenma Sylvester | [GitHub](https://github.com/slyfolk)
 
 ## License
 simple_shell is open source and therefore free to download and use without permission.
